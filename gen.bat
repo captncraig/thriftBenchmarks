@@ -1,0 +1,1 @@
+thrift.exe -gen go bench.thrift
