@@ -4,6 +4,7 @@ import (
 	ejson "encoding/json"
 	"fmt"
 	"git.apache.org/thrift.git/lib/go/thrift"
+	//"strings"
 	"thriftBenchmarks/gen-go/bench"
 	"time"
 )
@@ -54,9 +55,9 @@ func main() {
 	sizeTest(person, "Simple Person")
 	sizeTest(complicated, "Complex object")
 	sizeTest(noStrings, "Numeric Object")
-	speedTest(person, "Simple Person")
-	speedTest(complicated, "Complex object")
-	speedTest(noStrings, "No Strings object")
+	//speedTest(person, "Simple Person")
+	//speedTest(complicated, "Complex object")
+	//speedTest(noStrings, "No Strings object")
 }
 
 var iterations = 1000000
@@ -123,7 +124,7 @@ func sizeTest(o writable, name string) {
 	o.Write(json)
 	json.Flush()
 	fmt.Printf("JSON: %d\n", buf.Len())
-	//fmt.Println(buf.String())
+	fmt.Println(buf.String())
 
 	buf.Reset()
 	o.Write(binary)

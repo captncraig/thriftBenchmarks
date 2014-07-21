@@ -1,0 +1,10 @@
+C:\GoPath\src\thriftBenchmarks\csharp\csharp\bin\Release\csharp.exe.config
+C:\GoPath\src\thriftBenchmarks\csharp\csharp\bin\Release\csharp.exe
+C:\GoPath\src\thriftBenchmarks\csharp\csharp\bin\Release\csharp.pdb
+C:\GoPath\src\thriftBenchmarks\csharp\csharp\bin\Release\Newtonsoft.Json.dll
+C:\GoPath\src\thriftBenchmarks\csharp\csharp\bin\Release\Thrift.dll
+C:\GoPath\src\thriftBenchmarks\csharp\csharp\bin\Release\Newtonsoft.Json.xml
+C:\GoPath\src\thriftBenchmarks\csharp\csharp\bin\Release\Thrift.pdb
+C:\GoPath\src\thriftBenchmarks\csharp\csharp\obj\Release\csharp.csprojResolveAssemblyReference.cache
+C:\GoPath\src\thriftBenchmarks\csharp\csharp\obj\Release\csharp.exe
+C:\GoPath\src\thriftBenchmarks\csharp\csharp\obj\Release\csharp.pdb

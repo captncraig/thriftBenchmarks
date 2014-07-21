@@ -1,0 +1,8 @@
+C:\GoPath\src\thriftBenchmarks\csharp\csharp\bin\Debug\csharp.exe.config
+C:\GoPath\src\thriftBenchmarks\csharp\csharp\bin\Debug\csharp.exe
+C:\GoPath\src\thriftBenchmarks\csharp\csharp\bin\Debug\csharp.pdb
+C:\GoPath\src\thriftBenchmarks\csharp\csharp\bin\Debug\Thrift.dll
+C:\GoPath\src\thriftBenchmarks\csharp\csharp\bin\Debug\Thrift.pdb
+C:\GoPath\src\thriftBenchmarks\csharp\csharp\obj\Debug\csharp.csprojResolveAssemblyReference.cache
+C:\GoPath\src\thriftBenchmarks\csharp\csharp\obj\Debug\csharp.exe
+C:\GoPath\src\thriftBenchmarks\csharp\csharp\obj\Debug\csharp.pdb
